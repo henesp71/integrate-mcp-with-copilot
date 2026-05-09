@@ -164,6 +164,21 @@ button:hover {
   background-color: #3949ab;
 }
 
+.dashboard-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.logout-button {
+  background-color: #c62828;
+}
+
+.logout-button:hover {
+  background-color: #e53935;
+}
+
 .message {
   margin-top: 20px;
   padding: 10px;
